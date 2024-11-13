@@ -8,6 +8,9 @@
 Simple bash-script installer to install Gitea on Ubuntu server. It's an alternative for server who can't run docker
 properly (e.x. LXC)
 
+# Gitea-updater
+Simple bash-script updater. Can be put to cron to regularly check gitea updates.
+
 ## Tutorials
 
 [![Mainhoster (ehemals Go2Prepaid) Gitea Video (Installation)][gitea-tutorial-go2prepaid-thumbnail]][gitea-tutorial-go2prepaid-video]
